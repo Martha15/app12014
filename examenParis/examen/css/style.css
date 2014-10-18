@@ -1,0 +1,181 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic);
+
+.ui-page{
+
+	color: white;
+	text-shadow:none;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+#pizza-home{
+
+	background-image:url(../img/parissi2.jpg);
+	background-size:cover;
+	background-size: 320px;
+	
+	
+
+
+
+}
+
+img{
+
+	position: fixed;
+	position: center;
+	margin-left: 100px;
+	margin-top: 20px;
+
+
+
+}
+
+
+#pizza-home .ui-header{
+
+	background-color: transparent;
+	border:none;
+}
+
+#pizza-home .ui-content h1{
+
+	font-size: 20px;
+	font-weight:100;
+	text-align: center;
+
+	margin-top: 0px;
+	
+
+	padding: 0px;
+	text-shadow:none;
+	color:white;
+
+}
+
+
+#pizza-home .ui-content{
+
+	
+	padding-top: 180px;
+	padding-bottom: 0px;
+
+}
+
+#pizza-home .ui-content .ui-input-text{
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:6px;
+	padding: 10px 10px;
+
+}
+
+#pizza-home .ui-content .ui-input-text input::-webkit-input-placeholder {
+	color: #b8b8b7;
+	font-size: 15px;
+
+
+}
+
+#pizza-home .ui-footer{
+	border-top-width: 0px;
+
+	
+	
+	padding-bottom: 0px;
+
+}
+
+#pizza-home .ui-footer button.boton1{
+
+	width: 1000px;
+	line-height:40px;
+	padding: 0px;
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius: 0px;
+	margin-top: 60px;
+	text-align: left;
+
+	color:white;
+	background-color:#787877;
+	opacity: 0.5;
+
+	font-size: 17px;
+	font-weight: lighter;
+
+	
+	line-height: 2px solid white;
+
+	border: 0;
+
+	border-bottom: 2px solid white;
+	margin-bottom: 0px;
+
+
+}
+
+#pizza-home .ui-footer button:hover { 
+     color: #000;
+    background-color: white; 
+
+
+}
+
+
+#pizza-home .ui-footer  button.boton2 {
+
+	width: 1000px;
+	line-height:40px;
+	padding: 0px;
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius: 0px;
+	text-align: left;
+	margin-top: 0px;
+
+
+	color:white;
+	background-color:#787877;opacity: 0.5;
+	
+	font-size: 17px;
+	font-weight: lighter;
+	margin-bottom: 0px;
+
+
+}
+
+#pizza-home .ui-footer button:hover { 
+     color: #000;
+    background-color: white; 
+
+
+}
+
+#pizza-home .ui-footer button.redes{
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	padding: 0px 0px 0px 0px;
+	color:white;
+	background-color: transparent;
+	font-size: 30px;
+	margin: 0px 0px 0px 180px;
+	border: 0px 0px 0px 0px;
+
+}
+
+#pizza-home .ui-footer button:hover { 
+     color: #000;
+     
+
+}
+

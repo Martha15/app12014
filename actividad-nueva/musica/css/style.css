@@ -1,0 +1,170 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic);
+
+.ui-page{
+
+	color: white;
+	text-shadow:none;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+#pizza-home{
+
+	background-image:url(../img/chica.jpg);
+	background-size:cover;
+	background-size: 320px;
+	
+
+
+
+}
+
+img{
+
+	position: fixed;
+	margin-left: 15px;
+	margin-top: 10px;
+
+
+
+
+}
+
+
+#pizza-home .ui-header{
+
+	background-color: transparent;
+	border:none;
+}
+
+#pizza-home .ui-header h1{
+
+	font-size: 20px;
+	font-weight:100;
+	margin-right: 10px;
+	margin-left: 70px;
+	margin-top: 15px;
+
+	padding: 0px;
+	text-shadow:none;
+	color:white;
+
+}
+
+#pizza-home .ui-header h1 i{
+
+	color:white;
+
+}
+
+#pizza-home .ui-footer{
+
+	background-color: transparent;
+	border:none;
+}
+
+#pizza-home .ui-footer h4{
+
+	font-size: 14px;
+	font-weight:100;
+	margin: 0 20%;
+	text-shadow:none;
+	color:white;
+	padding-top: 0px;
+
+
+	}
+
+
+
+#pizza-home .ui-content{
+
+	
+	padding-top: 200px;
+	padding-bottom: 0px;
+
+
+
+}
+
+#pizza-home .ui-content .ui-input-text{
+
+	box-shadow: none;
+	
+	color:white;
+	text-shadow:none;
+	border-radius:2px;
+	padding: 2px 2px;
+	font-size: 15px;
+	margin: 0px;
+	
+	background-color: transparent;
+	
+	line-height: 1px solid white;
+
+	border: 0;
+
+	border-bottom: 1px solid white;
+
+
+
+
+}
+
+#pizza-home .ui-content .ui-input-text input::-webkit-input-placeholder {
+	color: white;
+	font-size: 15px;
+
+}
+
+#pizza-home .ui-content button.boton1{
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:10px;
+	padding: 10px 10px;
+
+
+	color:white;
+	background-color:#1cd5e5;
+	font-size: 17px;
+	font-weight: lighter;
+
+
+}
+
+#pizza-home .ui-content button:hover { 
+     color: #000;
+    background-color: white; 
+
+
+}
+
+
+#pizza-home .ui-content  button.boton2 {
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:10px;
+	padding: 10px 10px;
+
+
+	color:white;
+	background-color:#5a88e6;
+	font-size: 17px;
+	font-weight: lighter;
+	margin-bottom: 0px;
+
+
+}
+
+#pizza-home .ui-content button:hover { 
+     color: #000;
+    background-color: white; 
+
+
+}
+

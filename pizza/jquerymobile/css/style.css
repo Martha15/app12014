@@ -94,8 +94,9 @@
 
 }
 
-#pizza-home .ui-content button :hover { 
-    color: #a7a7a7;
+#pizza-home .ui-content button:hover { 
+    color: #000;
+    background-color: white; 
 
 
 }
