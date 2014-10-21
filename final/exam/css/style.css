@@ -1,0 +1,86 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic);
+
+.ui-page{
+
+	color: white;
+	text-shadow:none;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+#musica-home{
+	background-image:url(../img/parissi2.jpg);
+	background-size: 100%;
+	
+}
+
+#musica-home .ui-header{
+	background-color: transparent;
+	border: none;
+	text-align: center;
+}
+#musica-home .ui-header img{
+	margin: 30px 0px 0px 0px;
+	top: 30px;
+}
+
+#musica-home .ui-content{
+	text-align: center;
+	color: white;
+	border: none;
+	margin-top: 5px;
+}
+
+
+
+
+#musica-home .ui-content input {
+	
+	border: none;
+	background-color: white;
+	border-radius:3px;
+	border: none;
+	border-radius:6px;
+
+}
+
+#musica-home .ui-content h1{
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+#musica-home .ui-footer{
+	background-color: transparent;
+	border: none;
+	text-align: center;
+
+}
+
+#musica-home .ui-footer button {
+	text-align: left;
+	float: left;
+	width: 100%;
+	margin: 1px 0px 1px 0px;
+	padding: none;
+	border: none;
+	background-color: black;
+	color: white;
+	opacity:0.5;
+	font-size: 18px;
+	font-weight: lighter;
+	height: 75px;
+}
+
+#musica-home .ui-footer button i{
+	text-align: right;
+	margin-left: 50px	
+}
+#musica-home .ui-footer i :hover{
+	color: red;	
+}
+
+
+
+
+
