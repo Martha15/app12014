@@ -1,0 +1,455 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic);
+
+.ui-page{
+
+	color: white;
+	text-shadow:none;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+#cupcakes-home{
+
+	background-image:url(../img/fondoapp.jpg);
+	background-size:cover;
+	
+
+
+}
+
+
+.ui-page .ui-header{
+
+	background-color: transparent;
+	border:none;
+}
+
+
+
+.ui-header .ui-btn-left, .ui-header .ui-btn-right{
+
+	background-color: transparent;
+	color: white;
+	text-shadow:none;
+	border: none;
+	margin-top: 9px;
+	margin-left: -5px;
+	font-size: 20px;
+
+
+
+}
+
+
+.ui-header .ui-btn-left i, .ui-header .ui-btn-right i{
+
+color: white;
+
+
+	}
+
+.ui-header .ui-btn-left:hover i, .ui-header .ui-btn-right:hover i{
+
+	background-color: transparent;
+	
+color: white;
+	border: none;
+
+}
+
+
+.ui-header .ui-btn-left:hover i:active, .ui-header .ui-btn-right:hover i:active{
+
+	background-color: transparent;
+	color: white;
+		border: none;
+
+	}
+
+
+#cupcakes-home .ui-header h1{
+
+	font-size: 40px;
+	font-weight:100;
+	margin: 0 20%;
+	text-shadow:none;
+	color:#1f6802;
+
+}
+
+#cupcakes-home .ui-header h1 i{
+
+	color:white;
+
+}
+
+.ui-page .ui-footer{
+
+	background-color: transparent;
+	border:none;
+}
+
+#cupcakes-home .ui-footer h4{
+
+	font-size: 14px;
+	font-weight:100;
+	margin: 0 20%;
+	text-shadow:none;
+	color:white;
+
+
+	}
+
+
+
+#cupcakes-home .ui-content{
+
+	padding-top: 80%;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+#cupcakes-home .ui-content .ui-input-text{
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:6px;
+	padding: 10px 10px;
+
+
+}
+
+#cupcakes-home .ui-content button{
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:6px;
+	padding: 10px 10px;
+
+	border:1px solid white;
+	color:white;
+	background-color: transparent;
+	font-size: 25px;
+	font-weight: lighter;
+
+
+}
+
+#cupcakes-home .ui-content button:hover { 
+    color: #000;
+    background-color: white; 
+
+
+} 
+
+.cupcakes{
+
+		background-image:url(../img/fondo3.jpg);
+	background-size:cover;
+}
+
+.cupcakes .ui-header h1{
+
+font-size: 40px;
+	font-weight:100;
+	margin: 0 20%;
+	text-shadow:none;
+	color:white;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-style: italic;
+
+
+}
+
+.cupcakes .ui-header h2{
+
+font-size: 19px;
+	font-weight:300;
+	margin: 0 10%;
+	text-shadow:none;
+	color:white;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-style: italic;
+
+
+}
+
+.ricapizza .ui-content{
+
+	padding: 0px;
+
+
+}
+
+#cupcakes-paquetes .paquetes-wrap{
+
+	width: 52%;
+	height: 155px;
+	padding-top: 0px;
+	background-image: url(../img/fondo_caja.png);
+	margin: 0 auto;
+	background-size: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+	display: table;
+
+
+}
+
+#cupcakes-paquetes .paquetes-wrap:hover{
+
+opacity: 0.8;
+
+	
+
+	}
+
+#cupcakes-paquetes .paquetes-wrap .paquetes-texto-wrap{
+
+	display: table-cell;
+	
+	vertical-align: middle;
+}
+
+#cupcakes-paquetes .paquetes-wrap .paquetes-texto-wrap .paquetes-texto-container{
+
+width: 80%;
+margin: 0 auto;
+
+}
+
+#cupcakes-paquetes .paquetes-texto-container h3{
+
+color: #6b1214;
+margin:6px;
+font-size: 17px;
+margin-top: 60px;
+
+
+}
+
+#cupcakes-paquetes .paquetes-texto-container h3:hover{
+
+color: #8d5d35;
+
+
+
+}
+
+#cupcakes-paquetes .paquetes-texto-container span{
+
+color: #6b1214;
+font-weight: 300;
+
+
+}
+
+#cupcakes-paquetes .ui-content button{
+width: 80px;
+height:40px;
+
+margin-left: 100px;
+margin-bottom: 7px;
+position: center;
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:6px;
+	padding: 5px 5px 5px 5px;
+
+	border:3px solid #6b1214;
+	color:white;
+	background-color: #ff3568;
+	font-size: 18px;
+	font-weight: 100;
+
+
+}
+
+#cupcakes-paquetes .ui-content button:hover { 
+    
+    background-color: #6b1214; 
+    border:3px solid #ff3568;
+    color:white;
+
+
+} 
+
+#cupcakes-sabores .ui-header h1{
+
+margin:0 10%;
+
+}
+
+#cupcakes-sabores .ui-header h2{
+
+white-space: normal;
+font-size: 16px;
+
+}
+
+#cupcakes-sabores .ui-content{
+
+	padding: 0 15px;
+	margin-top: 20px;
+}
+
+#cupcakes-sabores .ui-bar{
+
+	background-color: transparent;
+	border:none;
+	text-align: center;
+	font-weight: 300;
+	height: 70%;
+
+}
+#cupcakes-sabores .ui-bar img{
+
+	height: 77px;
+	display: block;
+	margin:0 auto;
+	opacity: .5;
+
+}
+
+#cupcakes-sabores .ui-bar.active img{
+
+	opacity: 1;
+
+}
+
+#cupcakes-sabores .ui-content button{
+width: 80px;
+height:40px;
+margin-left: 100px;
+margin-bottom: 20px;
+position: center;
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:6px;
+	padding: 5px 5px 5px 5px;
+
+	border:3px solid #6b1214;
+	color:white;
+	background-color: #ff3568;
+	font-size: 18px;
+	font-weight: 100;
+
+
+}
+
+#cupcakes-sabores .ui-content button:hover { 
+    
+    background-color: #6b1214; 
+    border:3px solid #ff3568;
+    color:white;
+
+
+} 
+
+
+#cupcakes-pedido .wrap-pedido{
+
+	padding: 20px;
+	margin: 0 10%;
+	color: #6b1214;
+	font-weight: 300;
+	margin-top: 15px;
+
+
+	box-shadow: 0px 0px 25px 1px rgba(0,0,0,0.80);
+
+
+background: #c1beac; /* Old browsers */
+background: -moz-linear-gradient(top, #c1beac 0%, #fdfbf0 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c1beac), color-stop(100%,#fdfbf0)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #c1beac 0%,#fdfbf0 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #c1beac 0%,#fdfbf0 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #c1beac 0%,#fdfbf0 100%); /* IE10+ */
+background: linear-gradient(to bottom, #c1beac 0%,#fdfbf0 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1beac', endColorstr='#fdfbf0',GradientType=0 ); /* IE6-9 */
+
+
+
+}
+
+#cupcakes-pedido .wrap-pedido h4{
+
+	font-weight: 300;
+	font-size: 16px;
+	margin: 10px 0;
+	border-bottom: 1px solid #000;
+	padding-bottom:10px;
+
+
+
+}
+
+#cupcakes-pedido .wrap-pedido th{
+
+	font-weight: 300;
+	font-size: 16px;
+	text-align: left;
+	
+
+
+
+}
+
+#cupcakes-pedido .wrap-pedido .total{
+
+	border-top: 1px solid #000;
+	padding-top:10px;
+	
+
+
+
+}
+
+
+#cupcakes-pedido .wrap-pedido .orden{
+
+	font-weight: 400;
+
+
+}
+
+
+#cupcakes-pedido .ui-content button{
+width: 190px;
+height:40px;
+
+margin-left: 0px;
+margin-bottom: 5px;
+position: center;
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:6px;
+	padding: 5px 5px 5px 5px;
+
+	border:3px solid #6b1214;
+	color:white;
+	background-color: #ff3568;
+	font-size: 18px;
+	font-weight: 100;
+
+
+}
+
+#cupcakes-pedido .ui-content button:hover { 
+    
+    background-color: #6b1214; 
+    border:3px solid #ff3568;
+    color:white;
+
+
+} 

@@ -1,0 +1,182 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic);
+
+.ui-page{
+
+	color: white;
+	text-shadow:none;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+#pizza-home{
+
+	background-image:url(../img/fondoapp.jpg);
+	background-size:cover;
+	
+
+
+}
+
+
+.ui-page .ui-header{
+
+	background-color: transparent;
+	border:none;
+}
+
+#pizza-home .ui-header h1{
+
+	font-size: 40px;
+	font-weight:100;
+	margin: 0 20%;
+	text-shadow:none;
+	color:#1f6802;
+
+}
+
+#pizza-home .ui-header h1 i{
+
+	color:white;
+
+}
+
+.ui-page .ui-footer{
+
+	background-color: transparent;
+	border:none;
+}
+
+#pizza-home .ui-footer h4{
+
+	font-size: 14px;
+	font-weight:100;
+	margin: 0 20%;
+	text-shadow:none;
+	color:white;
+
+
+	}
+
+
+
+#pizza-home .ui-content{
+
+	padding-top: 25%;
+
+}
+
+#pizza-home .ui-content .ui-input-text{
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:2px;
+	padding: 10px 10px;
+
+
+}
+
+#pizza-home .ui-content button{
+
+	box-shadow: none;
+	border:none;
+	text-shadow:none;
+	border-radius:2px;
+	padding: 10px 10px;
+
+	border:1px solid white;
+	color:white;
+	background-color: transparent;
+	font-size: 25px;
+	font-weight: lighter;
+
+
+}
+
+#pizza-home .ui-content button:hover { 
+    color: #000;
+    background-color: white; 
+
+
+} 
+
+.pizza{
+
+		background-image:url(../img/fondo2.jpg);
+	background-size:cover;
+}
+
+.pizza .ui-header h1{
+
+font-size: 40px;
+	font-weight:100;
+	margin: 0 20%;
+	text-shadow:none;
+	color:white;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-style: italic;
+
+
+}
+
+.pizza .ui-header h2{
+
+font-size: 19px;
+	font-weight:300;
+	margin: 0 10%;
+	text-shadow:none;
+	color:white;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-style: italic;
+
+
+}
+
+#pizza-masa .masa-wrap{
+
+	width: 70%;
+	height: 230px;
+	background-image: url(../img/fondo_masa.png);
+	margin: 0 auto;
+	background-size: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+	display: table;
+
+
+}
+
+#pizza-masa .masa-wrap .masa-texto-wrap{
+
+	display: table-cell;
+	
+	vertical-align: middle;
+}
+
+#pizza-masa .masa-wrap .masa-texto-wrap .masa-texto-container{
+
+width: 80%;
+margin: 0 auto;
+
+}
+
+#pizza-masa .masa-texto-container h3{
+
+color: #603001;
+margin:6px;
+
+
+}
+
+#pizza-masa .masa-texto-container span{
+
+color: #603001;
+font-weight: 300;
+
+
+}
+
